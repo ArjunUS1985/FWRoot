@@ -1,1 +1,1 @@
-25.10.25;Change Log: 1. Added calibration reminder 2. Added firmware update checks
+26.01.15;Change Log: 1. Streamlined calibration workflow for calibration verification
